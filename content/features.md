@@ -9,9 +9,10 @@ sections:
     features:
       - title: Concept Development
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Product development is a complex process -we have experienced it
+          ourselves. Have you already visualized your product but do not how to
+          develop it? The mechanical design is completed, but the electronics
+          still require ideation and work? Let’s do that together!
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
