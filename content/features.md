@@ -1,5 +1,5 @@
 ---
-title: Ser
+title: Services
 sections:
   - type: hero_section
     title: Services
