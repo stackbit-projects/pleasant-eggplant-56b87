@@ -35,9 +35,9 @@ sections:
             style: primary
       - title: Consulting
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          IoT, cryptography, machine learning. Your team would like to implement
+          and deploy new technologies? We consult you on the basics or the
+          specific information tailored to your requirements and project.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
