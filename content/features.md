@@ -43,7 +43,7 @@ sections:
           and deploy new technologies? We consult you on the basics or the
           specific information tailored to your requirements and project.
         align: left
-        image: images/feature.svg
+        image: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
