@@ -18,7 +18,7 @@ sections:
           develop it? The mechanical design is completed, but the electronics
           still require ideation and work? Let’s do that together!
         align: left
-        image: images/feature.svg
+        image: images/scott-graham-5fNmWej4tAA-unsplash.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
