@@ -44,7 +44,7 @@ params:
         url: 'https://www.linkedin.com/'
         style: link
         new_window: true
-    content: '&copy; embedded prototyping. All rights reserved.ener">now</a>'
+    content: '&copy; embedded prototyping. All rights reserved.'
 taxonomies:
   stub: stub
 disableKinds:
