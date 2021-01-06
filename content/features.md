@@ -3,7 +3,11 @@ title: Services
 sections:
   - type: hero_section
     title: Services
-    subtitle: We help you to reach your potential.
+    subtitle: >-
+      We seek to understand your specific requirements and would love to
+      contribute to your success. By consulting on topics and developing your
+      ptototype, our workflows easily integrate into your agile development
+      cycle and will accelerate your business ideas
     align: center
   - type: features_section
     features:
