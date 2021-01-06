@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: embedded prototyping
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Your partner for developing embedded system prototypes. Fast and reliable.
     actions:
       - label: Learn More
         url: /features
