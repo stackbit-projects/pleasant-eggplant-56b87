@@ -30,7 +30,7 @@ sections:
           You are lacking experience in designing hardware? We assist you in all
           stages of development.
         align: left
-        image: images/feature.svg
+        image: images/chris-ried-bN5XdU-bap4-unsplash.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
